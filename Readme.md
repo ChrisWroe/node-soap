@@ -1,6 +1,6 @@
--## Changes in fork
+## Changes in fork
 
--Slightly hacked to deal with a different SOAP envelope namespace
+Slightly hacked to deal with a different SOAP envelope namespace
  
  Also needs some changes to payload namespace handling for my purposes.
 
