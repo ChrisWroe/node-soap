@@ -1,3 +1,9 @@
+-## Changes in fork
+
+-Slightly hacked to deal with a different SOAP envelope namespace
+ 
+ Also needs some changes to payload namespace handling for my purposes.
+
 # Soap [![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url]
 > A SOAP client and server for node.js.
 
